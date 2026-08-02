@@ -1,0 +1,42 @@
+generated: '2026-07-21'
+method: probed
+source: live HTTP probes of unframe.ai hosts
+note: >-
+  No /.well-known/ discovery documents are published. llms.txt IS published
+  (saved verbatim to llms/unframe-ai-llms.txt) but lives at the site root, not
+  under /.well-known. No API, docs, status, trust, or app subdomains resolve
+  (api./docs./developers./developer./status./trust./app.unframe.ai all fail
+  DNS/connect).
+probes:
+- host: www.unframe.ai
+  path: /.well-known/security.txt
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /security.txt
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /.well-known/openid-configuration
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /.well-known/oauth-authorization-server
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /.well-known/api-catalog
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /.well-known/ai-plugin.json
+  status: 404
+  file: null
+- host: www.unframe.ai
+  path: /llms.txt
+  status: 200
+  file: ../llms/unframe-ai-llms.txt
+- host: www.unframe.ai
+  path: /robots.txt
+  status: 200
+  file: null

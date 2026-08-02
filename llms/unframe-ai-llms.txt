@@ -1,0 +1,32 @@
+# Unframe AI
+
+> Unframe is an enterprise AI platform that assembles production-ready AI solutions using modular building blocks, enabling companies to deploy AI faster without rebuilding core systems.
+
+## Company Overview
+- [About Unframe](https://www.unframe.ai/about): Company mission, vision, and background.
+- [Careers](https://www.unframe.ai/careers): Open roles and company culture.
+- [Contact](https://www.unframe.ai/contact): How to get in touch with Unframe.
+
+## Platform & Product
+- [Platform Overview](https://www.unframe.ai/platform): Core platform capabilities and architecture.
+- [How It Works](https://www.unframe.ai/how-it-works): Explanation of how Unframe assembles AI solutions.
+- [Security](https://www.unframe.ai/security): Security, compliance, and enterprise controls.
+
+## Solutions & Use Cases
+- [Solutions](https://www.unframe.ai/solutions): AI solutions by function and use case.
+- [Industries](https://www.unframe.ai/industries): Industry-specific AI applications.
+- [Case Studies](https://www.unframe.ai/case-studies): Customer success stories and outcomes.
+
+## Resources
+- [Blog](https://www.unframe.ai/blog): Articles, insights, and updates from Unframe.
+- [Documentation](https://www.unframe.ai/docs): Technical and product documentation.
+- [FAQs](https://www.unframe.ai/faq): Frequently asked questions.
+
+## Trust & Governance
+- [Legal](https://www.unframe.ai/legal): Terms of service and legal information.
+- [Privacy Policy](https://www.unframe.ai/privacy): Data privacy and handling practices.
+- [Responsible AI](https://www.unframe.ai/responsible-ai): Approach to safe and responsible AI use.
+
+## Optional
+- [Press](https://www.unframe.ai/press): Press releases and media mentions.
+- [Partners](https://www.unframe.ai/partners): Technology and ecosystem partners.
