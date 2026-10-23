@@ -3,17 +3,14 @@
   "feeds": [
     {
       "source": "https://www.unframe.ai/blog/rss.xml",
-      "feed_url": "https://www.unframe.ai/blog/rss.xml",
-      "title": "",
-      "saved": 1,
-      "method": "feed"
+      "error": "HTTPError"
     },
     {
       "source": "https://www.unframe.ai/blog",
-      "feed_url": "https://www.unframe.ai/blog/rss.xml",
+      "feed_url": "https://www.unframe.ai/blog",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "none"
     },
     {
       "source": "https://www.unframe.ai/",
@@ -24,5 +21,5 @@
     }
   ],
   "post_count": 1,
-  "fetched": "2026-10-10T13:15:00Z"
+  "fetched": "2026-10-17T14:53:57Z"
 }
